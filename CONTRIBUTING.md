@@ -1,10 +1,10 @@
 # How to contribute
 
-Your contributions to the Stellar network will help improve the world’s financial
+Your contributions to the Payshares network will help improve the world’s financial
 infrastructure, faster.
 
 We want to make it as easy as possible to contribute changes that
-help the Stellar network grow and thrive. There are a few guidelines that we
+help the Payshares network grow and thrive. There are a few guidelines that we
 ask contributors to follow so that we can merge your changes quickly.
 
 ## Getting Started
@@ -23,9 +23,9 @@ ask contributors to follow so that we can merge your changes quickly.
 
 ## Submitting Changes
 
-* <a href="https://www.clahub.com/agreements/stellar/stex">Sign the Contributor License Agreement</a>.
+* <a href="https://www.clahub.com/agreements/payshares/stex">Sign the Contributor License Agreement</a>.
 * Push your changes to a topic branch in your fork of the repository.
-* Submit a pull request to the [stex](https://github.com/stellar/stex) repository in the Stellar organization.
+* Submit a pull request to the [stex](https://github.com/payshares/stex) repository in the Payshares organization.
  * Include a descriptive [commit message](https://github.com/erlang/otp/wiki/Writing-good-commit-messages).
  * Changes contributed via pull request should focus on a single issue at a time.
  * Rebase your local changes against the master branch. Resolve any conflicts that arise.
@@ -43,11 +43,10 @@ an issue number.
 
 # Additional Resources
 
-* [Bug tracker (Github)](https://github.com/stellar/stex/issues)
-* <a href="https://www.clahub.com/agreements/stellar/stex">Contributor License Agreement</a>
-* [Explore the API](https://www.stellar.org/api/)
-* [Readme for stex](https://github.com/stellar/stex/blob/master/README.md)
-* #stellar-dev IRC channel on freenode.org
+* [Bug tracker (Github)](https://github.com/payshares/stex/issues)
+* <a href="https://www.clahub.com/agreements/payshares/stex">Contributor License Agreement</a>
+* [Explore the API](https://payshares.org/api/)
+* [Readme for stex](https://github.com/payshares/stex/blob/master/README.md)
 
 
 This document is inspired by:
